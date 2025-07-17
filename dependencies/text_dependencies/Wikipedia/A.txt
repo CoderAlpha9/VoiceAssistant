@@ -1,0 +1,1 @@
+{'apple': 'In mathematics and computer science, apply is a function that applies functions to arguments. It is central to programming languages derived from lambda calculus, such as LISP and Scheme, and also in functional languages.'}

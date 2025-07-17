@@ -1,0 +1,1 @@
+{'w': 'W or w is the 23rd and fourth-to-last letter of the modern English and ISO basic Latin alphabets. It usually represents a consonant, but in some languages it represents a vowel.', 'winter': 'Winter is the coldest season of the year in polar and temperate zones (winter does not occur in most of the tropical zone). It occurs after autumn and before spring in each year.'}
